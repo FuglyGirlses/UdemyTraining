@@ -21,6 +21,6 @@ func vis() {
 
 	fmt.Println(c)
 	fmt.Println(d)
-	// fmt.Println(b)
+	// fmt.Println(b) - variable 'b' is not visible outside func main()
 
 }
